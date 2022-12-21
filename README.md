@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CaptnCarl
-- 👀 I’m interested in web and game development
-- 🌱 I’m currently learning the fundamentals course on The Odin Project
+- 👋 Hi, I’m Carl.
+- 👀 I’m interested in game development.
+- 🌱 I’m currently taking CS50's game development course.
 
 
 <!---
