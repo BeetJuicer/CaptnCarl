@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carl.
 - 👀 I’m interested in game development.
-- 🌱 I’m currently taking CS50's game development course.
+- 🌱 I’m currently working on City of Faith - a mobile city-building/farming game for my capstone project.
 
 
 <!---
